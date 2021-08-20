@@ -234,23 +234,6 @@ th {
     --accent-color: #2b839f
 }
 
-@media (prefers-color-scheme: dark) {
-    :root {
-        --background-color: #000;
-        --actual-background-color: #101010;
-        --actual-background-color-transparent: rgba(16, 16, 16, 0);
-        --foreground-color: #fff;
-        --blog-foreground-color: #fff;
-        --blog-caption-foreground-color: #ddd;
-        --default-heading-color: #fff;
-        --separator-color: #333;
-        --content-lead-text-color: #aaa;
-        --alert-foreground-color: #fff;
-        --button-foreground-color: #999;
-        --accent-color: #2b83dc
-    }
-}
-
 * {
     box-sizing: border-box;
     -webkit-box-sizing: border-box;
@@ -456,25 +439,6 @@ form.form button:hover {
     position: relative
 }
 
-@media (prefers-color-scheme: dark) {
-    .dm-dimming::after {
-        content: "";
-        display: block;
-        position: absolute;
-        top: 0;
-        right: 0;
-        bottom: 0;
-        left: 0;
-        background: rgba(0, 0, 0, 0.5)
-    }
-    .dm-dimming.dm-dimming-light::after {
-        background: rgba(0, 0, 0, 0.2)
-    }
-    .dm-dimming.dm-dimming-heavy::after {
-        background: rgba(0, 0, 0, 0.7)
-    }
-}
-
 .dm-dimming .nested-img {
     z-index: 1
 }
@@ -491,12 +455,6 @@ form.form button:hover {
     justify-content: center;
     position: relative;
     background: url(img/background.gif);
-}
-
-@media (prefers-color-scheme: dark) {
-    #cover {
-		background: url(img/background.gif);
-    }
 }
 
 #cover::after {
