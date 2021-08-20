@@ -495,7 +495,7 @@ form.form button:hover {
 
 @media (prefers-color-scheme: dark) {
     #cover {
-        background-image: none
+		background: url(img/background.gif);
     }
 }
 
