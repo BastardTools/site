@@ -1,0 +1,412 @@
+
+
+//Types
+
+
+<type name="Bastard_BMWe32_stock">
+<nominal>0</nominal>
+<lifetime>43200</lifetime>
+<restock>0</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Bastard_BMWe32_skin1">
+<nominal>0</nominal>
+<lifetime>43200</lifetime>
+<restock>0</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Bastard_BMWe32_skin2">
+<nominal>0</nominal>
+<lifetime>43200</lifetime>
+<restock>0</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="bmwwheel_5x120">
+<nominal>0</nominal>
+<lifetime>2700</lifetime>
+<restock>0</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+<category name="vehiclesparts"/>
+<tag name="floor"/>
+<usage name="Industrial"/>
+<usage name="Farm"/>
+</type>
+<type name="Shtamp_5x120">
+<nominal>0</nominal>
+<lifetime>2700</lifetime>
+<restock>0</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+<category name="vehiclesparts"/>
+<tag name="floor"/>
+<usage name="Industrial"/>
+<usage name="Farm"/>
+</type>
+<type name="Bastard_BMWe32_driverdoor_stock">
+<nominal>0</nominal>
+<lifetime>2700</lifetime>
+<restock>0</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+<category name="vehiclesparts"/>
+<tag name="floor"/>
+<usage name="Industrial"/>
+<usage name="Farm"/>
+</type>
+<type name="Bastard_BMWe32_codriverdoor_stock">
+<nominal>0</nominal>
+<lifetime>2700</lifetime>
+<restock>0</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+<category name="vehiclesparts"/>
+<tag name="floor"/>
+<usage name="Industrial"/>
+<usage name="Farm"/>
+</type>
+<type name="Bastard_BMWe32_cargo1door_stock">
+<nominal>0</nominal>
+<lifetime>2700</lifetime>
+<restock>0</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+<category name="vehiclesparts"/>
+<tag name="floor"/>
+<usage name="Industrial"/>
+<usage name="Farm"/>
+</type>
+<type name="Bastard_BMWe32_cargo2door_stock">
+<nominal>0</nominal>
+<lifetime>2700</lifetime>
+<restock>0</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+<category name="vehiclesparts"/>
+<tag name="floor"/>
+<usage name="Industrial"/>
+<usage name="Farm"/>
+</type>
+<type name="Bastard_BMWe32_trunkdoor_stock">
+<nominal>0</nominal>
+<lifetime>2700</lifetime>
+<restock>0</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+<category name="vehiclesparts"/>
+<tag name="floor"/>
+<usage name="Industrial"/>
+<usage name="Farm"/>
+</type>
+<type name="Bastard_BMWe32_driverdoor_skin1">
+<nominal>0</nominal>
+<lifetime>2700</lifetime>
+<restock>0</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+<category name="vehiclesparts"/>
+<tag name="floor"/>
+<usage name="Industrial"/>
+<usage name="Farm"/>
+</type>
+<type name="Bastard_BMWe32_codriverdoor_skin1">
+<nominal>0</nominal>
+<lifetime>2700</lifetime>
+<restock>0</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+<category name="vehiclesparts"/>
+<tag name="floor"/>
+<usage name="Industrial"/>
+<usage name="Farm"/>
+</type>
+<type name="Bastard_BMWe32_cargo1door_skin1">
+<nominal>0</nominal>
+<lifetime>2700</lifetime>
+<restock>0</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+<category name="vehiclesparts"/>
+<tag name="floor"/>
+<usage name="Industrial"/>
+<usage name="Farm"/>
+</type>
+<type name="Bastard_BMWe32_cargo2door_skin1">
+<nominal>0</nominal>
+<lifetime>2700</lifetime>
+<restock>0</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+<category name="vehiclesparts"/>
+<tag name="floor"/>
+<usage name="Industrial"/>
+<usage name="Farm"/>
+</type>
+<type name="Bastard_BMWe32_trunkdoor_skin1">
+<nominal>0</nominal>
+<lifetime>2700</lifetime>
+<restock>0</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+<category name="vehiclesparts"/>
+<tag name="floor"/>
+<usage name="Industrial"/>
+<usage name="Farm"/>
+</type>
+<type name="Bastard_BMWe32_driverdoor_skin2">
+<nominal>0</nominal>
+<lifetime>2700</lifetime>
+<restock>0</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+<category name="vehiclesparts"/>
+<tag name="floor"/>
+<usage name="Industrial"/>
+<usage name="Farm"/>
+</type>
+<type name="Bastard_BMWe32_codriverdoor_skin2">
+<nominal>0</nominal>
+<lifetime>2700</lifetime>
+<restock>0</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+<category name="vehiclesparts"/>
+<tag name="floor"/>
+<usage name="Industrial"/>
+<usage name="Farm"/>
+</type>
+<type name="Bastard_BMWe32_cargo1door_skin2">
+<nominal>0</nominal>
+<lifetime>2700</lifetime>
+<restock>0</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+<category name="vehiclesparts"/>
+<tag name="floor"/>
+<usage name="Industrial"/>
+<usage name="Farm"/>
+</type>
+<type name="Bastard_BMWe32_cargo2door_skin2">
+<nominal>0</nominal>
+<lifetime>2700</lifetime>
+<restock>0</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+<category name="vehiclesparts"/>
+<tag name="floor"/>
+<usage name="Industrial"/>
+<usage name="Farm"/>
+</type>
+<type name="Bastard_BMWe32_trunkdoor_skin2">
+<nominal>0</nominal>
+<lifetime>2700</lifetime>
+<restock>0</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+<category name="vehiclesparts"/>
+<tag name="floor"/>
+<usage name="Industrial"/>
+<usage name="Farm"/>
+</type>
+
+
+//Cfgspawnabletypes
+
+
+</type>
+<!-- -->
+<type name="Bastard_BMWe32_stock">
+<attachments chance="1.00">
+<item name="bmwwheel_5x120" chance="1.00" />
+</attachments>
+<attachments chance="1.00">
+<item name="bmwwheel_5x120" chance="1.00" />
+</attachments>
+<attachments chance="1.00">
+<item name="bmwwheel_5x120" chance="1.00" />
+</attachments>
+<attachments chance="1.00">
+<item name="bmwwheel_5x120" chance="1.00" />
+</attachments>
+<attachments chance="1.00">
+<item name="CarRadiator" chance="0.00" />
+</attachments>
+<attachments chance="1.00">
+<item name="CarBattery" chance="0.00" />
+</attachments>
+<attachments chance="1.00">
+<item name="SparkPlug" chance="0.00" />
+</attachments>
+<attachments chance="1.00">
+<item name="HeadlightH7" chance="0.40" />
+</attachments>
+<attachments chance="1.00">
+<item name="HeadlightH7" chance="0.40" />
+</attachments>
+<attachments chance="1.00">
+<item name="Bastard_BMWe32_driverdoor_stock" chance="1.00" />
+</attachments>
+<attachments chance="1.00">
+<item name="Bastard_BMWe32_codriverdoor_stock" chance="1.00" />
+</attachments>
+<attachments chance="1.00">
+<item name="Bastard_BMWe32_cargo1door_stock" chance="1.00" />
+</attachments>
+<attachments chance="1.00">
+<item name="Bastard_BMWe32_cargo2door_stock" chance="1.00" />
+</attachments>
+<attachments chance="1.00">
+<item name="Bastard_BMWe32_trunkdoor_stock" chance="1.00" />
+</attachments>
+
+</type>
+<type name="Bastard_BMWe32_skin1">
+<attachments chance="1.00">
+<item name="bmwwheel_5x120" chance="1.00" />
+</attachments>
+<attachments chance="1.00">
+<item name="bmwwheel_5x120" chance="1.00" />
+</attachments>
+<attachments chance="1.00">
+<item name="bmwwheel_5x120" chance="1.00" />
+</attachments>
+<attachments chance="1.00">
+<item name="bmwwheel_5x120" chance="1.00" />
+</attachments>
+<attachments chance="1.00">
+<item name="CarRadiator" chance="0.00" />
+</attachments>
+<attachments chance="1.00">
+<item name="CarBattery" chance="0.00" />
+</attachments>
+<attachments chance="1.00">
+<item name="SparkPlug" chance="0.00" />
+</attachments>
+<attachments chance="1.00">
+<item name="HeadlightH7" chance="0.40" />
+</attachments>
+<attachments chance="1.00">
+<item name="HeadlightH7" chance="0.40" />
+</attachments>
+<attachments chance="1.00">
+<item name="Bastard_BMWe32_driverdoor_skin1" chance="1.00" />
+</attachments>
+<attachments chance="1.00">
+<item name="Bastard_BMWe32_codriverdoor_skin1" chance="1.00" />
+</attachments>
+<attachments chance="1.00">
+<item name="Bastard_BMWe32_cargo1door_skin1" chance="1.00" />
+</attachments>
+<attachments chance="1.00">
+<item name="Bastard_BMWe32_cargo2door_skin1" chance="1.00" />
+</attachments>
+<attachments chance="1.00">
+<item name="Bastard_BMWe32_trunkdoor_skin1" chance="1.00" />
+</attachments>
+</type>
+<type name="Bastard_BMWe32_skin2">
+<attachments chance="1.00">
+<item name="bmwwheel_5x120" chance="1.00" />
+</attachments>
+<attachments chance="1.00">
+<item name="bmwwheel_5x120" chance="1.00" />
+</attachments>
+<attachments chance="1.00">
+<item name="bmwwheel_5x120" chance="1.00" />
+</attachments>
+<attachments chance="1.00">
+<item name="bmwwheel_5x120" chance="1.00" />
+</attachments>
+<attachments chance="1.00">
+<item name="CarRadiator" chance="0.00" />
+</attachments>
+<attachments chance="1.00">
+<item name="CarBattery" chance="0.00" />
+</attachments>
+<attachments chance="1.00">
+<item name="SparkPlug" chance="0.00" />
+</attachments>
+<attachments chance="1.00">
+<item name="HeadlightH7" chance="0.40" />
+</attachments>
+<attachments chance="1.00">
+<item name="HeadlightH7" chance="0.40" />
+</attachments>
+<attachments chance="1.00">
+<item name="Bastard_BMWe32_driverdoor_skin2" chance="1.00" />
+</attachments>
+<attachments chance="1.00">
+<item name="Bastard_BMWe32_codriverdoor_skin2" chance="1.00" />
+</attachments>
+<attachments chance="1.00">
+<item name="Bastard_BMWe32_cargo1door_skin2" chance="1.00" />
+</attachments>
+<attachments chance="1.00">
+<item name="Bastard_BMWe32_cargo2door_skin2" chance="1.00" />
+</attachments>
+<attachments chance="1.00">
+<item name="Bastard_BMWe32_trunkdoor_skin2" chance="1.00" />
+</attachments>

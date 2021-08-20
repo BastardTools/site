@@ -1,0 +1,721 @@
+
+
+//Types
+
+
+<type name="Bastard_w123_stock">
+<nominal>0</nominal>
+<lifetime>3386400</lifetime>
+<restock>1800</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+</type>
+<type name="Bastard_w123_skin1">
+<nominal>0</nominal>
+<lifetime>3386400</lifetime>
+<restock>1800</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+</type>
+<type name="Bastard_w123_skin2">
+<nominal>0</nominal>
+<lifetime>3386400</lifetime>
+<restock>1800</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+</type>
+<type name="Bastard_w123_skin3">
+<nominal>0</nominal>
+<lifetime>3386400</lifetime>
+<restock>1800</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+</type>
+<type name="Bastard_w123_black">
+<nominal>0</nominal>
+<lifetime>3386400</lifetime>
+<restock>1800</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+</type>
+<type name="oldmercedeswheel_5x120">
+<nominal>12</nominal>
+<lifetime>2700</lifetime>
+<restock>0</restock>
+<min>5</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+<category name="tools" />
+<tag name="floor" />
+<usage name="Industrial" />
+</type>
+<type name="oldmercedeswheel_5x120_Ruined">
+<nominal>0</nominal>
+<lifetime>2700</lifetime>
+<min>0</min>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+</type>
+<type name="Bastard_Rover_driverdoor_stock">
+<nominal>5</nominal>
+<lifetime>2700</lifetime>
+<restock>0</restock>
+<min>3</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+<category name="tools" />
+<tag name="floor" />
+<usage name="Industrial" />
+</type>
+<type name="Bastard_w123_driverdoor_stock">
+<nominal>5</nominal>
+<lifetime>2700</lifetime>
+<restock>0</restock>
+<min>3</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+<category name="tools" />
+<tag name="floor" />
+<usage name="Industrial" />
+</type>
+<type name="Bastard_w123_codriverdoor_stock">
+<nominal>5</nominal>
+<lifetime>2700</lifetime>
+<restock>0</restock>
+<min>3</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+<category name="tools" />
+<tag name="floor" />
+<usage name="Industrial" />
+</type>
+<type name="Bastard_w123_cargo2door_stock">
+<nominal>5</nominal>
+<lifetime>2700</lifetime>
+<restock>0</restock>
+<min>3</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+<category name="tools" />
+<tag name="floor" />
+<usage name="Industrial" />
+</type>
+<type name="Bastard_w123_cargo1door_stock">
+<nominal>5</nominal>
+<lifetime>2700</lifetime>
+<restock>0</restock>
+<min>3</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+<category name="tools" />
+<tag name="floor" />
+<usage name="Industrial" />
+</type>
+<type name="Bastard_w123_trunkdoor_stock">
+<nominal>5</nominal>
+<lifetime>2700</lifetime>
+<restock>0</restock>
+<min>3</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+<category name="tools" />
+<tag name="floor" />
+<usage name="Industrial" />
+</type>
+<type name="Bastard_w123_hooddoor_stock">
+<nominal>5</nominal>
+<lifetime>2700</lifetime>
+<restock>0</restock>
+<min>3</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+<category name="tools" />
+<tag name="floor" />
+<usage name="Industrial" />
+</type>
+
+<type name="Bastard_w123_driverdoor_skin1">
+<nominal>5</nominal>
+<lifetime>2700</lifetime>
+<restock>0</restock>
+<min>3</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+<category name="tools" />
+<tag name="floor" />
+<usage name="Industrial" />
+</type>
+<type name="Bastard_w123_codriverdoor_skin1">
+<nominal>5</nominal>
+<lifetime>2700</lifetime>
+<restock>0</restock>
+<min>3</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+<category name="tools" />
+<tag name="floor" />
+<usage name="Industrial" />
+</type>
+<type name="Bastard_w123_cargo1door_skin1">
+<nominal>5</nominal>
+<lifetime>2700</lifetime>
+<restock>0</restock>
+<min>3</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+<category name="tools" />
+<tag name="floor" />
+<usage name="Industrial" />
+</type>
+<type name="Bastard_w123_cargo2door_skin1">
+<nominal>5</nominal>
+<lifetime>2700</lifetime>
+<restock>0</restock>
+<min>3</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+<category name="tools" />
+<tag name="floor" />
+<usage name="Industrial" />
+</type>
+<type name="Bastard_w123_trunkdoor_skin1">
+<nominal>5</nominal>
+<lifetime>2700</lifetime>
+<restock>0</restock>
+<min>3</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+<category name="tools" />
+<tag name="floor" />
+<usage name="Industrial" />
+</type>
+<type name="Bastard_w123_hooddoor_skin1">
+<nominal>5</nominal>
+<lifetime>2700</lifetime>
+<restock>0</restock>
+<min>3</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+<category name="tools" />
+<tag name="floor" />
+<usage name="Industrial" />
+</type>
+
+<type name="Bastard_w123_driverdoor_skin2">
+<nominal>5</nominal>
+<lifetime>2700</lifetime>
+<restock>0</restock>
+<min>3</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+<category name="tools" />
+<tag name="floor" />
+<usage name="Industrial" />
+</type>
+<type name="Bastard_w123_codriverdoor_skin2">
+<nominal>5</nominal>
+<lifetime>2700</lifetime>
+<restock>0</restock>
+<min>3</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+<category name="tools" />
+<tag name="floor" />
+<usage name="Industrial" />
+</type>
+<type name="Bastard_w123_cargo1door_skin2">
+<nominal>5</nominal>
+<lifetime>2700</lifetime>
+<restock>0</restock>
+<min>3</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+<category name="tools" />
+<tag name="floor" />
+<usage name="Industrial" />
+</type>
+<type name="Bastard_w123_cargo2door_skin2">
+<nominal>5</nominal>
+<lifetime>2700</lifetime>
+<restock>0</restock>
+<min>3</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+<category name="tools" />
+<tag name="floor" />
+<usage name="Industrial" />
+</type>
+<type name="Bastard_w123_trunkdoor_skin2">
+<nominal>5</nominal>
+<lifetime>2700</lifetime>
+<restock>0</restock>
+<min>3</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+<category name="tools" />
+<tag name="floor" />
+<usage name="Industrial" />
+</type>
+<type name="Bastard_w123_hooddoor_skin2">
+<nominal>5</nominal>
+<lifetime>2700</lifetime>
+<restock>0</restock>
+<min>3</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+<category name="tools" />
+<tag name="floor" />
+<usage name="Industrial" />
+</type>
+
+<type name="Bastard_w123_driverdoor_skin3">
+<nominal>5</nominal>
+<lifetime>2700</lifetime>
+<restock>0</restock>
+<min>3</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+<category name="tools" />
+<tag name="floor" />
+<usage name="Industrial" />
+</type>
+<type name="Bastard_w123_codriverdoor_skin3">
+<nominal>5</nominal>
+<lifetime>2700</lifetime>
+<restock>0</restock>
+<min>3</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+<category name="tools" />
+<tag name="floor" />
+<usage name="Industrial" />
+</type>
+<type name="Bastard_w123_cargo2door_skin3">
+<nominal>5</nominal>
+<lifetime>2700</lifetime>
+<restock>0</restock>
+<min>3</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+<category name="tools" />
+<tag name="floor" />
+<usage name="Industrial" />
+</type>
+<type name="Bastard_w123_trunkdoor_skin3">
+<nominal>5</nominal>
+<lifetime>2700</lifetime>
+<restock>0</restock>
+<min>3</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+<category name="tools" />
+<tag name="floor" />
+<usage name="Industrial" />
+</type>
+<type name="Bastard_w123_cargo1door_skin3">
+<nominal>5</nominal>
+<lifetime>2700</lifetime>
+<restock>0</restock>
+<min>3</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+<category name="tools" />
+<tag name="floor" />
+<usage name="Industrial" />
+</type>
+<type name="Bastard_w123_hooddoor_skin3">
+<nominal>5</nominal>
+<lifetime>2700</lifetime>
+<restock>0</restock>
+<min>3</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+<category name="tools" />
+<tag name="floor" />
+<usage name="Industrial" />
+</type>
+
+<type name="Bastard_w123_driverdoor_black">
+<nominal>5</nominal>
+<lifetime>2700</lifetime>
+<restock>0</restock>
+<min>3</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+<category name="tools" />
+<tag name="floor" />
+<usage name="Industrial" />
+</type>
+<type name="Bastard_w123_codriverdoor_black">
+<nominal>5</nominal>
+<lifetime>2700</lifetime>
+<restock>0</restock>
+<min>3</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+<category name="tools" />
+<tag name="floor" />
+<usage name="Industrial" />
+</type>
+<type name="Bastard_w123_cargo2door_black">
+<nominal>5</nominal>
+<lifetime>2700</lifetime>
+<restock>0</restock>
+<min>3</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+<category name="tools" />
+<tag name="floor" />
+<usage name="Industrial" />
+</type>
+<type name="Bastard_w123_trunkdoor_black">
+<nominal>5</nominal>
+<lifetime>2700</lifetime>
+<restock>0</restock>
+<min>3</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+<category name="tools" />
+<tag name="floor" />
+<usage name="Industrial" />
+</type>
+<type name="Bastard_w123_cargo1door_black">
+<nominal>5</nominal>
+<lifetime>2700</lifetime>
+<restock>0</restock>
+<min>3</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+<category name="tools" />
+<tag name="floor" />
+<usage name="Industrial" />
+</type>
+<type name="Bastard_w123_hooddoor_black">
+<nominal>5</nominal>
+<lifetime>2700</lifetime>
+<restock>0</restock>
+<min>3</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+<category name="tools" />
+<tag name="floor" />
+<usage name="Industrial" />
+</type>
+
+
+//Cfgspawnabletypes
+
+
+<type name="Bastard_w123_stock">
+<attachments chance="1.00">
+<item name="oldmercedeswheel_5x120" chance="1.00" />
+</attachments>
+<attachments chance="1.00">
+<item name="oldmercedeswheel_5x120" chance="1.00" />
+</attachments>
+<attachments chance="1.00">
+<item name="oldmercedeswheel_5x120" chance="1.00" />
+</attachments>
+<attachments chance="1.00">
+<item name="oldmercedeswheel_5x120" chance="1.00" />
+</attachments>
+<attachments chance="1.00">
+<item name="CarRadiator" chance="0.30" />
+</attachments>
+<attachments chance="1.00">
+<item name="CarBattery" chance="0.30" />
+</attachments>
+<attachments chance="1.00">
+<item name="SparkPlug" chance="0.30" />
+</attachments>
+<attachments chance="1.00">
+<item name="HeadlightH7" chance="0.40" />
+</attachments>
+<attachments chance="1.00">
+<item name="HeadlightH7" chance="0.40" />
+</attachments>
+<attachments chance="1.00">
+<item name="Bastard_w123_driverdoor_stock" chance="0.50" />
+</attachments>
+<attachments chance="1.00">
+<item name="Bastard_w123_codriverdoor_stock" chance="0.50" />
+</attachments>
+<attachments chance="1.00">
+<item name="Bastard_w123_cargo1door_stock" chance="0.50" />
+</attachments>
+<attachments chance="1.00">
+<item name="Bastard_w123_cargo2door_stock" chance="0.50" />
+</attachments>
+<attachments chance="1.00">
+<item name="Bastard_w123_trunkdoor_stock" chance="0.10" />
+</attachments>
+<attachments chance="1.00">
+<item name="Bastard_w123_hooddoor_stock" chance="0.05" />
+</attachments>
+</type>
+<type name="Bastard_w123_skin1">
+<attachments chance="1.00">
+<item name="oldmercedeswheel_5x120" chance="1.00" />
+</attachments>
+<attachments chance="1.00">
+<item name="oldmercedeswheel_5x120" chance="1.00" />
+</attachments>
+<attachments chance="1.00">
+<item name="oldmercedeswheel_5x120" chance="1.00" />
+</attachments>
+<attachments chance="1.00">
+<item name="oldmercedeswheel_5x120" chance="1.00" />
+</attachments>
+<attachments chance="1.00">
+<item name="CarRadiator" chance="0.30" />
+</attachments>
+<attachments chance="1.00">
+<item name="CarBattery" chance="0.30" />
+</attachments>
+<attachments chance="1.00">
+<item name="SparkPlug" chance="0.30" />
+</attachments>
+<attachments chance="1.00">
+<item name="HeadlightH7" chance="0.40" />
+</attachments>
+<attachments chance="1.00">
+<item name="HeadlightH7" chance="0.40" />
+</attachments>
+<attachments chance="1.00">
+<item name="Bastard_w123_driverdoor_skin1" chance="0.50" />
+</attachments>
+<attachments chance="1.00">
+<item name="Bastard_w123_codriverdoor_skin1" chance="0.50" />
+</attachments>
+<attachments chance="1.00">
+<item name="Bastard_w123_cargo1door_skin1" chance="0.50" />
+</attachments>
+<attachments chance="1.00">
+<item name="Bastard_w123_cargo2door_skin1" chance="0.50" />
+</attachments>
+<attachments chance="1.00">
+<item name="Bastard_w123_trunkdoor_skin1" chance="0.10" />
+</attachments>
+<attachments chance="1.00">
+<item name="Bastard_w123_hooddoor_skin1" chance="0.05" />
+</attachments>
+</type>
+<type name="Bastard_w123_skin2">
+<attachments chance="1.00">
+<item name="oldmercedeswheel_5x120" chance="1.00" />
+</attachments>
+<attachments chance="1.00">
+<item name="oldmercedeswheel_5x120" chance="1.00" />
+</attachments>
+<attachments chance="1.00">
+<item name="oldmercedeswheel_5x120" chance="1.00" />
+</attachments>
+<attachments chance="1.00">
+<item name="oldmercedeswheel_5x120" chance="1.00" />
+</attachments>
+<attachments chance="1.00">
+<item name="CarRadiator" chance="0.30" />
+</attachments>
+<attachments chance="1.00">
+<item name="CarBattery" chance="0.30" />
+</attachments>
+<attachments chance="1.00">
+<item name="SparkPlug" chance="0.30" />
+</attachments>
+<attachments chance="1.00">
+<item name="HeadlightH7" chance="0.40" />
+</attachments>
+<attachments chance="1.00">
+<item name="HeadlightH7" chance="0.40" />
+</attachments>
+<attachments chance="1.00">
+<item name="Bastard_w123_driverdoor_skin2" chance="0.50" />
+</attachments>
+<attachments chance="1.00">
+<item name="Bastard_w123_codriverdoor_skin2" chance="0.50" />
+</attachments>
+<attachments chance="1.00">
+<item name="Bastard_w123_cargo1door_skin2" chance="0.50" />
+</attachments>
+<attachments chance="1.00">
+<item name="Bastard_w123_cargo2door_skin2" chance="0.50" />
+</attachments>
+<attachments chance="1.00">
+<item name="Bastard_w123_trunkdoor_skin2" chance="0.10" />
+</attachments>
+<attachments chance="1.00">
+<item name="Bastard_w123_hooddoor_skin2" chance="0.05" />
+</attachments>
+</type>
+<type name="Bastard_w123_skin3">
+<attachments chance="1.00">
+<item name="oldmercedeswheel_5x120" chance="1.00" />
+</attachments>
+<attachments chance="1.00">
+<item name="oldmercedeswheel_5x120" chance="1.00" />
+</attachments>
+<attachments chance="1.00">
+<item name="oldmercedeswheel_5x120" chance="1.00" />
+</attachments>
+<attachments chance="1.00">
+<item name="oldmercedeswheel_5x120" chance="1.00" />
+</attachments>
+<attachments chance="1.00">
+<item name="CarRadiator" chance="0.30" />
+</attachments>
+<attachments chance="1.00">
+<item name="CarBattery" chance="0.30" />
+</attachments>
+<attachments chance="1.00">
+<item name="SparkPlug" chance="0.30" />
+</attachments>
+<attachments chance="1.00">
+<item name="HeadlightH7" chance="0.40" />
+</attachments>
+<attachments chance="1.00">
+<item name="HeadlightH7" chance="0.40" />
+</attachments>
+<attachments chance="1.00">
+<item name="Bastard_w123_driverdoor_skin3" chance="0.50" />
+</attachments>
+<attachments chance="1.00">
+<item name="Bastard_w123_codriverdoor_skin3" chance="0.50" />
+</attachments>
+<attachments chance="1.00">
+<item name="Bastard_w123_cargo1door_skin3" chance="0.50" />
+</attachments>
+<attachments chance="1.00">
+<item name="Bastard_w123_cargo2door_skin3" chance="0.50" />
+</attachments>
+<attachments chance="1.00">
+<item name="Bastard_w123_trunkdoor_skin3" chance="0.10" />
+</attachments>
+<attachments chance="1.00">
+<item name="Bastard_w123_hooddoor_skin3" chance="0.05" />
+</attachments>
+</type>
+<type name="Bastard_w123_black">
+<attachments chance="1.00">
+<item name="oldmercedeswheel_5x120" chance="1.00" />
+</attachments>
+<attachments chance="1.00">
+<item name="oldmercedeswheel_5x120" chance="1.00" />
+</attachments>
+<attachments chance="1.00">
+<item name="oldmercedeswheel_5x120" chance="1.00" />
+</attachments>
+<attachments chance="1.00">
+<item name="oldmercedeswheel_5x120" chance="1.00" />
+</attachments>
+<attachments chance="1.00">
+<item name="CarRadiator" chance="0.30" />
+</attachments>
+<attachments chance="1.00">
+<item name="CarBattery" chance="0.30" />
+</attachments>
+<attachments chance="1.00">
+<item name="SparkPlug" chance="0.30" />
+</attachments>
+<attachments chance="1.00">
+<item name="HeadlightH7" chance="0.40" />
+</attachments>
+<attachments chance="1.00">
+<item name="HeadlightH7" chance="0.40" />
+</attachments>
+<attachments chance="1.00">
+<item name="Bastard_w123_driverdoor_black" chance="0.50" />
+</attachments>
+<attachments chance="1.00">
+<item name="Bastard_w123_codriverdoor_black" chance="0.50" />
+</attachments>
+<attachments chance="1.00">
+<item name="Bastard_w123_cargo1door_black" chance="0.50" />
+</attachments>
+<attachments chance="1.00">
+<item name="Bastard_w123_cargo2door_black" chance="0.50" />
+</attachments>
+<attachments chance="1.00">
+<item name="Bastard_w123_trunkdoor_black" chance="0.10" />
+</attachments>
+<attachments chance="1.00">
+<item name="Bastard_w123_hooddoor_black" chance="0.05" />
+</attachments>
+</type>
