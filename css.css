@@ -490,7 +490,7 @@ form.form button:hover {
     align-items: center;
     justify-content: center;
     position: relative;
-    background: url(img/background.jpg);
+    background: url(img/background.gif);
 }
 
 @media (prefers-color-scheme: dark) {
