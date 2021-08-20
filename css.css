@@ -490,9 +490,7 @@ form.form button:hover {
     align-items: center;
     justify-content: center;
     position: relative;
-    background: var(--actual-background-color) url();
-    background-repeat: repeat-x;
-    background-size: 1000px 300px
+    background: url(img/background.jpg);
 }
 
 @media (prefers-color-scheme: dark) {
@@ -510,7 +508,6 @@ form.form button:hover {
     right: 0;
     max-height: 300px;
     height: 100%;
-    background: linear-gradient(var(--actual-background-color-transparent), var(--actual-background-color));
     z-index: 0
 }
 
@@ -546,7 +543,7 @@ form.form button:hover {
     padding: 9px 12px;
     border: 1px solid rgba(43, 131, 159, 0.1);
     border-radius: 10px;
-    background: rgba(150, 132, 248, 0.08);
+	background-color: white;
     color: var(--accent-color);
     font-size: 15px;
     font-family: "Varela Round", "Open Sans", -apple-system-font, BlinkMacSystemFont, "Helvetica Neue", "Helvetica", "Arial", sans-serif;
@@ -554,7 +551,7 @@ form.form button:hover {
 }
 
 #cover .contact>a:hover {
-    background: rgba(150, 132, 248, 0.12);
+	background-color: #ddd;
     border-color: rgba(43, 131, 159, 0.15)
 }
 
@@ -567,7 +564,7 @@ form.form button:hover {
 #cover .contact>a span {
     margin-left: 8px;
     position: relative;
-    top: -1px
+    top: -1px;
 }
 
 @media (max-width: 500px) {
