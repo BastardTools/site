@@ -1041,6 +1041,14 @@ body:not(.layout-front) #cover h1 {
   background-color: white;
 }
 
+#slaid7:checked~.kadoves label[for="slaid7"] {
+  background-color: white;
+}
+
+#slaid8:checked~.kadoves label[for="slaid8"] {
+  background-color: white;
+}
+
 .adaptivny-slayder-lasekun {
   overflow: hidden;
    
@@ -1079,6 +1087,14 @@ body:not(.layout-front) #cover h1 {
 
 #slaid6:checked~.adaptivny-slayder-lasekun .abusteku-deagulus {
   transform: translateX(-500%);
+}
+
+#slaid7:checked~.adaptivny-slayder-lasekun .abusteku-deagulus {
+  transform: translateX(-600%);
+}
+
+#slaid8:checked~.adaptivny-slayder-lasekun .abusteku-deagulus {
+  transform: translateX(-700%);
 }
 
 /*Rus/Eng*/
