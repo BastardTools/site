@@ -1049,6 +1049,10 @@ body:not(.layout-front) #cover h1 {
   background-color: white;
 }
 
+#slaid9:checked~.kadoves label[for="slaid9"] {
+  background-color: white;
+}
+
 .adaptivny-slayder-lasekun {
   overflow: hidden;
    
@@ -1095,6 +1099,10 @@ body:not(.layout-front) #cover h1 {
 
 #slaid8:checked~.adaptivny-slayder-lasekun .abusteku-deagulus {
   transform: translateX(-700%);
+}
+
+#slaid9:checked~.adaptivny-slayder-lasekun .abusteku-deagulus {
+  transform: translateX(-800%);
 }
 
 /*Rus/Eng*/
