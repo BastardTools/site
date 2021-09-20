@@ -1185,6 +1185,7 @@ body:not(.layout-front) #cover h1 {
 }
 .corner-ribbon-6::before, .corner-ribbon-6::after {
     position: absolute;
+    z-index: -1;
     content: '';
     display: block;
     border: 5px solid #2980b9;
