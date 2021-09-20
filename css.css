@@ -1168,3 +1168,80 @@ body:not(.layout-front) #cover h1 {
     .content-pr.full {
     }
 }
+
+.corner-box-6 {
+    position: relative;
+    display: inline-block;
+    width: 280px;
+    margin: 5px;
+    min-height: 160px;
+    text-align: center;
+}
+.corner-ribbon-6 {
+    width: 120px;
+    height: 120px;
+    overflow: hidden;
+    position: absolute;
+}
+.corner-ribbon-6::before, .corner-ribbon-6::after {
+    position: absolute;
+    content: '';
+    display: block;
+    border: 5px solid #2980b9;
+}
+.corner-ribbon-6 span {
+    position: absolute;
+    display: block;
+    width: 225px;
+    padding: 8px 0;
+    background-color: #cc0022;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+    color: #fff;
+    font: 500 18px/1 'Lato', sans-serif;
+    text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+    text-transform: uppercase;
+    text-align: center;
+}
+.corner-ribbon-6-top-left {
+    top: -5px;
+    left: -5px;
+}
+.corner-ribbon-6-top-left::before, .corner-ribbon-6-top-left::after {
+    border-top-color: transparent;
+    border-left-color: transparent;
+}
+.corner-ribbon-6-top-left::before {
+    top: 0;
+    right: 0;
+}
+.corner-ribbon-6-top-left::after {
+    left: 0;
+    bottom: 0;
+}
+.corner-ribbon-6-top-left span {
+    right: -43px;
+    top: 30px;
+    transform: rotate(-45deg);
+}
+.corner-ribbon-6-top-right {
+    top: -10px;
+    right: -10px;
+}
+.corner-ribbon-6-top-right::before, .corner-ribbon-6-top-right::after {
+    border-top-color: transparent;
+    border-right-color: transparent;
+}
+.corner-ribbon-6-top-right::before {
+    top: 0;
+    left: 0;
+}
+.corner-ribbon-6-top-right::after {
+    right: 0;
+    bottom: 0;
+}
+.corner-ribbon-6-top-right span {
+    left: -25px;
+    top: 30px;
+    transform: rotate(45deg);
+}
+Картинная рамка 1:
