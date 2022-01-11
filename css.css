@@ -454,6 +454,7 @@ form.form button:hover {
     align-items: center;
     justify-content: center;
     position: relative;
+	background-size: cover;
     background: url(img/background.gif);
 }
 
