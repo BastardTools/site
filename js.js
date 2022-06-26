@@ -10,7 +10,7 @@
 
 /*jslint nomen: true, plusplus: true, sloppy: true, vars: true, white: true */
 /*global window, document, navigator, clearInterval, setInterval */
-
+/*
 var snowStorm = (function(window, document) {
 
   // --- common properties ---
@@ -75,12 +75,6 @@ var snowStorm = (function(window, document) {
   features = (function() {
 
     var getAnimationFrame;
-
-    /**
-     * hat tip: paul irish
-     * http://paulirish.com/2011/requestanimationframe-for-smart-animating/
-     * https://gist.github.com/838785
-     */
 
     function timeoutShim(callback) {
       window.setTimeout(callback, 1000/(storm.animationInterval || 20));
