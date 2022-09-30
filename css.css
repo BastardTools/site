@@ -497,14 +497,14 @@ form.form button:hover {
 
 #cover .contact>a {
     display: inline-block;
-    margin-bottom: 4px;
-    margin-right: 4px;
+    margin-bottom: 5px;
+    margin-right: 5px;
     padding: 9px 12px;
     border: 1px solid rgba(43, 131, 159, 0.1);
     border-radius: 4px;
 	background-color: white;
     color: var(--accent-color);
-    font-size: 15px;
+    font-size: 14px;
     font-family: "Varela Round", "Open Sans", -apple-system-font, BlinkMacSystemFont, "Helvetica Neue", "Helvetica", "Arial", sans-serif;
     transition: 200ms ease-out background, 200ms ease-out border
 }
@@ -890,6 +890,80 @@ body:not(.layout-front) #cover h1 {
 }
 
 #footer>div>div:last-child {
+    text-align: center
+}
+
+#footer_faq {
+    background: var(--actual-background-color);
+    color: var(--footer_faq-foreground-color);
+    line-height: 1.3;
+    position: relative;
+    font-size: 10pt
+}
+
+#footer_faq>div {
+    padding-top: 5px;
+    padding-bottom: 5px;
+	border-style: dashed;
+    border-width: 2px; /* Толщина линии внизу */
+    border-color: var(--accent-color); /* Цвет линии внизу */
+    border-radius: 5px; /* Уголки */
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    font-family: "Menlo", "Fira Mono", monospace
+}
+
+#footer_faq>div>div {
+    flex-grow: 1
+}
+
+#footer_faq>div>div:first-child {
+    text-align: left
+}
+
+#footer_faq>div>div:last-child {
+    text-align: center
+}
+
+#footer_info {
+    background: url(img/info.png);
+	max-width: 100%; 
+	width: 1920px; // assume this is the default size 
+    max-height: 200px;
+    color: var(--footer_info-foreground-color);
+    line-height: 1.3;
+    position: relative;
+    font-size: 10pt;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+	background-size: cover;
+}
+
+#footer_info>div {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    font-family: "Menlo", "Fira Mono", monospace
+}
+
+#footer_info>div>div {
+    flex-grow: 1
+}
+
+#footer_info>div>div:first-child {
+    text-align: left
+}
+
+#footer_info>div>div:last-child {
     text-align: center
 }
 
