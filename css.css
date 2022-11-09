@@ -812,7 +812,7 @@ body:not(.layout-front) #cover h1 {
 .article-previews>a {
     display: block;
     overflow: hidden;
-    margin-bottom: 30px
+    margin-bottom: 30px;
 }
 
 .article-previews .article-preview {
